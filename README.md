@@ -32,7 +32,7 @@ Korean by birth. Working in Japan since April 2025 — based in Kobe.
 **Core**: TypeScript · Next.js · NestJS · React · PostgreSQL · Supabase  
 **Mobile**: React Native · Flutter  
 **AI / LLM**: Claude · OpenAI · Vercel AI SDK · Agent SDK  
-**Other**: Electron · Hono · Stripe · Solidity · AWS
+**Other**: Python · Docker · AWS · Vercel · Prisma · Electron · Solidity
 
 ---
 
