@@ -39,7 +39,6 @@ Korean by birth. Working in Japan since April 2025 — based in Kobe.
 ## Bookings
 
 - 📧 **rednebula41@gmail.com**
-- 🎼 [Portfolio](https://fleanlabs.io/page/portfolio)
 - 🌐 [hong-skils.vercel.app](https://hong-skils.vercel.app)
 
 *Currently taking select side projects · full-remote · 80–120h / month · mid-to-long term.*
