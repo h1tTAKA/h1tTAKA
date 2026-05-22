@@ -8,7 +8,7 @@
 
 ## Discography
 
-### `LP III` — *AI Startup Era*  ·  2026 — present
+### `LP III` — *AI Startup Era*  ·  2025 — present
 **Full-stack Engineer** — AI desktop app + cloud backend.
 
 ### `LP II` — *Studio Sessions*  ·  2023 — 2026  ·  33 months
