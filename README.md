@@ -8,13 +8,13 @@
 
 ## Discography
 
-### `LP III` — *AI Startup Era*  ·  2025 — present
-**Full-stack Engineer** — AI desktop app + cloud backend.
+### `LP III` — *AI Startup Era*  ·  2025 — present  ·  14 months
+**Full-stack Engineer** — AI desktop apps, cloud APIs, marketplace, central billing API at a Japanese AI startup.
 
-### `LP II` — *Studio Sessions*  ·  2023 — 2026  ·  33 months
-**Full-stack Engineer** — Web2 / Web3 / Mobile / Payment SaaS across 12 parallel releases at a contract studio.
+### `LP II` — *Studio Sessions*  ·  2023 — 2025  ·  23 months
+**Full-stack Engineer** — Web2 / Web3 / Mobile / Payment SaaS across 6 parallel releases at a Korean contract studio.
 
-### `LP I` — *Legacy Floor*  ·  2022 — 2023
+### `LP I` — *Legacy Floor*  ·  2022 — 2023  ·  8 months
 **Web Engineer** — Java / Spring (XML) / JSP / Oracle on a major foreign-owned insurance carrier's web mainframe.
 
 ---
