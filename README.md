@@ -25,7 +25,7 @@ Korean by birth. Working in Japan since April 2025 — based in Kobe.
 
 ## Bookings
 
-- 📧 **rednebula41@gmail.com**
-- 🌐 [hong-skils.vercel.app](https://hong-skils.vercel.app)
+- 📧 **sungwoon.hong@neuradex.ai**
 
-*Currently taking select side projects · full-remote · 80–120h / month · mid-to-long term.*
+
+*Currently taking select side projects · full-remote · 80–160h / month · mid-to-long term.*
