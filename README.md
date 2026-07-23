@@ -6,19 +6,6 @@
 
 ---
 
-## Discography
-
-### `LP III` — *AI Startup Era*  ·  2025 — present
-**Full-stack Engineer** — AI desktop apps, cloud APIs, marketplace, central billing API at a Japanese AI startup.
-
-### `LP II` — *Studio Sessions*  ·  2023 — 2025
-**Full-stack Engineer** — Web2 / Web3 / Mobile / Payment SaaS across 6 parallel releases at a Korean contract studio.
-
-### `LP I` — *Legacy Floor*  ·  2022 — 2023
-**Web Engineer** — Java / Spring (XML) / JSP / Oracle on a major foreign-owned insurance carrier's web mainframe.
-
----
-
 ## Liner Notes
 
 10 years as a music producer before this — composition, arrangement, mixing, mastering, all of it from `0` to `100`. Same instincts now live in the code: end-to-end ownership, obsession with quality.
@@ -32,7 +19,7 @@ Korean by birth. Working in Japan since April 2025 — based in Kobe.
 **Core**: TypeScript · Next.js · NestJS · React · PostgreSQL · Supabase  
 **Mobile**: React Native · Flutter  
 **AI / LLM**: Claude · OpenAI · Vercel AI SDK · Agent SDK  
-**Other**: Python · Docker · AWS · Vercel · Prisma · Electron · Solidity
+**Other**: Python · Docker · AWS · Vercel · Prisma · Electron
 
 ---
 
