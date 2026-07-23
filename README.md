@@ -2,7 +2,7 @@
 
 > Producer turned engineer. Shipping AI tools out of Kobe.
 
-🎧 **Now Playing** — building an AI coding-assistant desktop app + cloud backend at a Japanese AI startup.
+🎧 **Now Playing** — building an AI coding-assistant　at a Japanese AI startup.
 
 ---
 
